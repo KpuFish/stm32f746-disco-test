@@ -1,7 +1,7 @@
 # stm32f746-disco-test
 - based on freeRTOS
 - CLI Module Added
-- FAT32 Module Added
+- FAT32 Module Added (need to debug)
 - LCD Module Added
 - SDRAM module Added (need to debug)
 
