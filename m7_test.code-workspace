@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "m7_test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f7xx_hal_dma.h": "c",
+			"stm32f7xx_hal_def.h": "c",
+			"stm32_hal_legacy.h": "c",
+			"stm32f7xx_hal.h": "c",
+			"stm32f7xx_hal_conf.h": "c",
+			"stm32f7xx.h": "c",
+			"main.h": "c",
+			"fatfs.h": "c",
+			"ff.h": "c",
+			"ff_gen_drv.h": "c",
+			"file_system.h": "c",
+			"sdmmc.h": "c",
+			"config.h": "c",
+			"usart.h": "c",
+			"system_stm32f7xx.h": "c",
+			"stm32f746xx.h": "c",
+			"hw_init.h": "c",
+			"lcd.h": "c",
+			"app_led.h": "c",
+			"logo1.h": "c",
+			"dog.h": "c",
+			"stm32f7xx_hal_sdram.h": "c",
+			"stm32f7xx_ll_fmc.h": "c",
+			"sdram.h": "c"
+		}
+	}
+}
